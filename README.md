@@ -9,7 +9,6 @@
 
 Bu uygulama, **Pardus ETAP 23** yüklü etkileşimli tahtaların yerel ağ üzerinden merkezi olarak yönetilmesi için geliştirilmiştir. Python ve PyQt6 kullanılarak hazırlanan bu araç; uyandırma (WoL), uzaktan kapatma (SSH), canlı durum takibi (Ping) ve zamanlanmış görev yönetimini tek bir panelde birleştirir.
 
-<img width="639" height="512" alt="image" src="https://github.com/user-attachments/assets/873153b2-5587-40e3-bdfa-8b1560340beb" />
 ---
 
 ## 🚀 Özellikler
