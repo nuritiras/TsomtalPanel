@@ -30,3 +30,6 @@ Pardus ETAP üzerinde uygulamanın çalışması için gerekli sistem paketlerin
 ```bash
 sudo apt update
 sudo apt install python3-pyqt6 nmap arp-scan wakeonlan sshpass -y
+
+<img width="639" height="512" alt="image" src="https://github.com/user-attachments/assets/873153b2-5587-40e3-bdfa-8b1560340beb" />
+
